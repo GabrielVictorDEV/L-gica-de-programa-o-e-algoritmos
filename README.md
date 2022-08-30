@@ -1,2 +1,2 @@
-# L-gica-de-programa-o-e-algoritmos
+# L0gica-de-programaco-e-algoritmos
 Disciplina de lógica de programação e algoritmos - UNIPÊ 2022 - P - 2°
